@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
-baseurl: ""
+url: "https://pokemongovet.github.io/casos-de-sucesso-na-adocao-de-animais/"
+baseurl: "/casos-de-sucesso-na-adocao-de-animais"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Casos de Sucesso no fomento a adoção de animais
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Se inspire em ideias que deram certo em outro local do Brasil ou do mundo
 
 # --- Navigation bar options --- #
 
@@ -39,20 +39,20 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  name: Pokemon GO Vet
+  email: "pokemongovetbr@gmail.com"
+  facebook: PokemonGOVet  # eg. daattali
+  github: pokemongovet    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourname  # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   instagram: yourname # eg. daattali
- 
+
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: true
-  email: true
+  email: false
   twitter: true
   github: true
   linkedin: false
@@ -61,7 +61,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "github.com/pokemongovet"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
