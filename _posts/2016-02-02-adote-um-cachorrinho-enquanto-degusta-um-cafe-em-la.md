@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adote um cachorro enquanto aproveita um café no novo Dog Cafe de Los Angeles
-tags: [random, exciting-stuff]
+tags: [cafetera, cachorro]
 ---
 
 <!--
