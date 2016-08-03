@@ -23,12 +23,13 @@ description: Se inspire em ideias que deram certo em outro local do Brasil ou do
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Sobre: "sobre"
+  Github PGoVet: "https://github.com/pokemongovet"
+#  Resources:
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+#    - GitHub Pages: "https://pages.github.com/"
+  Site PGOVet: "http://pokemongo.vet.br"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,7 +44,7 @@ author:
   email: "pokemongovetbr@gmail.com"
   facebook: PokemonGOVet  # eg. daattali
   github: pokemongovet    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: pokemongovet   # eg. daattali
   linkedin: yourname  # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   instagram: yourname # eg. daattali
@@ -69,7 +70,7 @@ url-pretty: "github.com/pokemongovet"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-81144117-1" # TODO: trocar este UA. (fititnt, 2016-08-03 01:28)
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
