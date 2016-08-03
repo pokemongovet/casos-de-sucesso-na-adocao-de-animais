@@ -8,4 +8,6 @@ PokemonGoVet é uma iniciativa de um grupo focado em aproximar pessoas que ainda
 
 Este site contém ideias que deram certo em outro local do Brasil ou do mundo.
 
+[Sugira novo conteúdo clicando aqui](https://github.com/pokemongovet/casos-de-sucesso-na-adocao-de-animais/issues/new).
+
 Visite [https://github.com/pokemongovet/pokemongo.vet.br](https://github.com/pokemongovet/pokemongo.vet.br)

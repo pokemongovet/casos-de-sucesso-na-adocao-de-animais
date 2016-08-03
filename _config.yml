@@ -7,7 +7,6 @@
 url: "https://pokemongovet.github.io/casos-de-sucesso-na-adocao-de-animais/"
 baseurl: "/casos-de-sucesso-na-adocao-de-animais"
 
-# If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
@@ -24,6 +23,7 @@ description: Se inspire em ideias que deram certo em outro local do Brasil ou do
 # List of links in the navigation bar
 navbar-links:
   Sobre: "sobre"
+  Sugerir conteúdo: "https://github.com/pokemongovet/casos-de-sucesso-na-adocao-de-animais/issues/new"
   Github PGoVet: "https://github.com/pokemongovet"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar.jpg"
 
 # --- Footer options --- #
 
