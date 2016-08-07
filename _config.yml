@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://pokemongovet.github.io/casos-de-sucesso-na-adocao-de-animais/"
-baseurl: "/casos-de-sucesso-na-adocao-de-animais"
+url: "https://casosdesucesso.pokemongo.vet.br/"
+baseurl: "/"
 
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -29,7 +29,7 @@ navbar-links:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
-  Site PGOVet: "http://pokemongo.vet.br"
+  Conheça o projeto: "http://pokemongo.vet.br"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -75,10 +75,10 @@ google_analytics: "UA-81144117-1" # TODO: trocar este UA. (fititnt, 2016-08-03 0
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:

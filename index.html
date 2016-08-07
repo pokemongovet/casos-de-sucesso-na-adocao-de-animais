@@ -22,8 +22,8 @@ subtitle: Se inspire em ideias que deram certo em outro local do Brasil ou do mu
     </p>
 
     <div class="post-entry">
-      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+      {{ post.content | strip_html | xml_escape | truncatewords: 80 }}
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Leia mais]</a>
     </div>
 
     {% if post.tags.size > 0 %}

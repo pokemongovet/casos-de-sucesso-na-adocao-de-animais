@@ -43,8 +43,8 @@ hr.small {
   border-radius: 3px;
 }
 
-.main-content {
-  padding-top: 80px;
+.base-content {
+  margin-top: 110px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -53,7 +53,6 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
