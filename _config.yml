@@ -70,7 +70,7 @@ url-pretty: "github.com/pokemongovet"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-81144117-1" # TODO: trocar este UA. (fititnt, 2016-08-03 01:28)
+google_analytics: "UA-81144117-3" # TODO: trocar este UA. (fititnt, 2016-08-03 01:28)
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
